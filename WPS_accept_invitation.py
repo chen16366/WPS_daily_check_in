@@ -1,6 +1,7 @@
 invite_userid = 718317190
 
 import requests
+import time
 
 sids = [
     "V02StVuaNcoKrZ3BuvJQ1FcFS_xnG2k00af250d4002664c02f",
